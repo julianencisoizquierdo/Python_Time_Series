@@ -1,9 +1,9 @@
 # Python_Time_Series
 
-# Titanic - Machine Learning from Disaster
+# Time Series - An Exploration
 
 ## Content of the project
-This project (still a WIP!) uses machine learning to create a model that predicts which passengers survived the Titanic shipwreck. More details can be found in Kaggle's website: https://www.kaggle.com/competitions/titanic 
+This is the first python project I do where I deal with Time Series. The goal is to apply widespread time series concepts (upsampling and downsampling, linear and spinal interpolation, rolling windows and rolling averages, autocorrelation)
 
 
 ## Instructions
