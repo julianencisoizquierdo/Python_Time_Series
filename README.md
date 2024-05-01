@@ -3,7 +3,7 @@
 # Time Series in Python - Common Use-Cases
 
 ## Content of the project
-This is the first python project I do where I deal with Time Series. The goal is to apply common time series concepts (upsampling and downsampling, linear and spinal interpolation, rolling windows and rolling averages, autocorrelation). Additionally, I aim at exploring basic plotting and visualization with the help of the Matplotlib package.
+This is the first time I deal with Time Series in a Python project. The goal is to apply common time series concepts (upsampling and downsampling, linear and spinal interpolation, rolling windows and rolling averages, autocorrelation). Additionally, I aim at exploring basic plotting and visualization with the help of the Matplotlib package.
 
 
 ## Instructions
