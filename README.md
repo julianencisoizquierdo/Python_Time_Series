@@ -7,7 +7,7 @@ This is the first time I deal with Time Series in a Python project. The goal is 
 
 
 ## Instructions
-The files used for the analysis are `smooth_1.npy` and `smooth_2.npy`. This includes 4 years of daily Sales data by customer and category.
+The file used for the analysis is `Sample - Superstore.xls`. This includes 4 years of daily Sales data by customer and category.
 
 
 ## Usage
